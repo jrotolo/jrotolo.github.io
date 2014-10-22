@@ -14,13 +14,13 @@ My name is Jarrod Rotolo I enjoy programming and pretty much anything there is t
 I am currently finishing out my final year at Louisiana State University in the Computer Science program. My favorite languages to code in are Ruby and Java. I have experience in web development and many modern MVC frameworks, preferably Ruby on Rails.
 If you need a programmer with passion and drive then contact me.
 
-## The tools I use:
+### The tools I use:
  - Text Editor - Vim and Sublime Text 3
  - Terminal Shell - GNU Bash
  - Operating System - Ubuntu and Windows
  - Source Control - Git
 
-## The languages I like:
+### The languages I like:
  - Ruby
  - Java/C++
  - Javascript
