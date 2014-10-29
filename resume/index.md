@@ -31,7 +31,8 @@ comments: false
 
 ### Skills
 ---
-* Computer Languages: Java, C++, Ruby, Javascript, PHP, Lisp
+* Computer Languages: Java, C++, Ruby, Javascript
+* Current Interest: Lisp, Node.js, and Rails
 * Computer Software: Autocad, adobe products, Windows, Linux (Ubuntu and arch), Netbeans, Visual Studios
 * Misc Skill: Web development and knowledge of MVC frameworks like Ruby on Rails, Computer IT and Security, Mathematics
 
