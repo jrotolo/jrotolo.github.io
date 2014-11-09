@@ -17,6 +17,7 @@ If you need a programmer with passion and drive then contact me, or check out my
  - Text Editor - Vim and Sublime Text 3
  - Terminal Shell - GNU Bash
  - Operating System - Linux (Ubuntu or Arch) and Windows
+ - Virtual Environments - Vagrant with VirtualBox
  - Source Control - Git
 
 ### The languages I like:
