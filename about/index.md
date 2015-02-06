@@ -16,7 +16,7 @@ If you need a programmer with passion and drive then contact me, or check out my
 ### The tools I use:
  - Text Editor - Vim and Sublime Text 3
  - Terminal Shell - GNU Bash
- - Operating System - Linux (Ubuntu or Arch) and Windows
+ - Operating System - Linux (Ubuntu or Arch) and OSX
  - Virtual Environments - Vagrant with VirtualBox
  - Source Control - Git
 
@@ -24,4 +24,3 @@ If you need a programmer with passion and drive then contact me, or check out my
  - Ruby
  - Java/C++
  - Javascript
- - Lisp
