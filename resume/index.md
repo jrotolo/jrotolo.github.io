@@ -13,10 +13,14 @@ comments: false
     - Laborer, landscape crew, installing and designing landscape and irrigation  
     - Assistant Estimator. I created estimates for commercial landscape work and worked in both excel and autocad  
 
-* __Independent IT Services and Consulting, 2012-Current__  
+* __Independent IT Services and Consulting, 2012-2015__  
     - I manage two small windows client/server networks. The skills I have developed include working with Active Directory, creating security policies (Group Policies), setting up/managing networks, managing a website, and dealing with day to day issues.  
     - [Alpat Collection Agency](http://www.alpatco.com)
-    - Esquire Realty  
+    - Esquire Realty
+
+* __Revelry Labs 2015-Current__  
+    - Junior Software Engineer
+    - Ruby on Rails, React, and Backbone
 
 ### Education
 ---
